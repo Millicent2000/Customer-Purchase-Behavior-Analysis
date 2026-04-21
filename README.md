@@ -70,8 +70,8 @@ Based on the analysis:
 This project demonstrates the ability to:
 
 - Translate raw data into business insights
-- Build dashboards that support decision-making
-- Communicate findings in a clear, stakeholder-focused manner
+- Build dashboards that support decision making
+- Communicate findings in a clear, stakeholder focused manner
 
 ### Contact
 
