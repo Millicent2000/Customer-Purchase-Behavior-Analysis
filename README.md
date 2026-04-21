@@ -55,3 +55,24 @@ Based on the analysis:
 - Power BI – Dashboard development & visualization
 - DAX – KPI calculations and measures
 - Data Cleaning (Excel) – Preprocessing and structuring dataset
+
+### Dashboard Preview
+
+<img width="904" height="507" alt="Dashboard" src="https://github.com/user-attachments/assets/6d7f4dbc-0ba7-4df1-918c-3c193f9e25e7" />
+
+### How to Use
+1. Download the .pbix file
+2. Open in Power BI Desktop
+3. Use slicers to explore customer segments and insights
+
+### Project Value
+
+This project demonstrates the ability to:
+
+- Translate raw data into business insights
+- Build dashboards that support decision-making
+- Communicate findings in a clear, stakeholder-focused manner
+
+### Contact
+
+Open to data analyst roles, collaborations, and feedback.
