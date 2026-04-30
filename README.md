@@ -15,7 +15,7 @@ Businesses often struggle to understand:
 - What factors influence purchasing decisions  
 - How to effectively target high value segments  
 
-This project aims to bridge that gap by transforming raw sales data into meaningful insights that inform strategic decision-making.
+This project aims to bridge that gap by transforming raw sales data into meaningful insights that inform strategic decision making.
 
 ---
 
