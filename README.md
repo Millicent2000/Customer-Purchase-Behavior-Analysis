@@ -5,95 +5,79 @@
 ---
 
 ## 📌 Project Overview  
-This project analyzes customer purchase behavior using bike sales data to identify key drivers of revenue, uncover high value customer segments, and provide actionable insights to support data-driven marketing and sales strategies.
+This project analyzes customer purchase behavior using bike sales data to identify key drivers of revenue, uncover high value customer segments, and provide actionable insights for targeted marketing strategies.
 
 ---
 
 ## 🎯 Business Problem  
-Businesses often struggle to understand:
-- Which customers drive the most revenue  
-- What factors influence purchasing decisions  
-- How to effectively target high value segments  
+Businesses often lack visibility into:
+- Which customer segments drive the most purchases  
+- How demographics influence buying behavior  
+- Where to focus marketing efforts for maximum return  
 
-This project aims to bridge that gap by transforming raw sales data into meaningful insights that inform strategic decision making.
+This project addresses these gaps by transforming raw data into actionable insights.
 
 ---
 
 ## 📊 Dataset  
-The dataset contains customer demographic and transactional data, including:
-- Age  
-- Income level  
-- Occupation  
-- Marital status  
-- Purchase history  
+The dataset includes:
+- Customer demographics (Age, Income, Marital Status)  
+- Purchase behavior  
+- Commute distance  
 
 ---
 
 ## 🛠 Tools & Techniques  
-- **Microsoft Excel:** Data cleaning, transformation, and exploratory analysis  
-- **Power BI:** Interactive dashboard development and data visualization  
-- **Data Analysis Techniques:**  
-  - Customer segmentation  
-  - Trend analysis  
-  - Comparative analysis  
+- **Excel:** Data cleaning and preprocessing  
+- **Power BI:** Dashboard development and visualization  
+- **Techniques:** Customer segmentation, trend analysis  
 
 ---
 
 ## 🔍 Key Insights  
 
-- Customers aged **31–50** represent the highest purchasing segment, contributing a significant share of total revenue  
-- **Higher income customers** are more likely to purchase premium bike categories  
-- **Married customers** show a higher purchase rate compared to single customers  
-- Certain regions demonstrate stronger demand, indicating opportunities for localized marketing strategies  
+- **Middle aged customers contributed 38% of total purchases**, making them the highest value segment  
+- **Adolescents contributed only 3%**, indicating a significantly underperforming group  
+- **Single customers had a higher purchase rate (25%) compared to married customers (23%)**  
+- **Low income earners contributed 25% of purchases**, significantly higher than high income earners (4%)  
 
 ---
 
-## 📈 Dashboard Highlights  
-The interactive dashboard enables:
-- Quick identification of high value customer segments  
-- Visualization of revenue distribution across demographics  
-- Analysis of purchasing trends by region and customer profile  
+## 📊 Dashboard Overview  
+
+<img width="767" height="430" alt="Dashboard" src="https://github.com/user-attachments/assets/7107cdfe-5144-43db-8f8c-400d5026f81d" />
+
+
+The dashboard provides a consolidated view of customer demographics and purchasing behavior, enabling quick identification of high value segments and underperforming groups.
 
 ---
-## 📊 Dashboard Preview  
 
-[Dashboard Overview]<img width="904" height="507" alt="Dashboard Overview" src="https://github.com/user-attachments/assets/31207b6d-7fe3-4d3c-98a4-b71c7e8524fe" />
- 
----
 ## 💡 Business Recommendations  
 
-Based on the analysis, the following actions are recommended:
-
-- **Target high income segments** with premium product offerings and tailored promotions  
-- **Focus marketing efforts on the 31–50 age group**, as they represent the most active buyers  
-- **Leverage demographic insights** to design personalized campaigns  
-- **Expand in high performing regions** while addressing gaps in underperforming areas  
+- Focus marketing efforts on **middle aged customers**, the primary revenue drivers  
+- Develop targeted campaigns to improve engagement among **adolescents (3%)**  
+- Leverage insights on **single customers (25%)** for tailored promotions  
+- Re-evaluate pricing and positioning strategies to better engage **high income customers (4%)**  
 
 ---
 
 ## 🚀 Business Impact  
 
-This analysis provides a structured approach to understanding customer behavior, enabling businesses to:
-- Improve marketing efficiency  
-- Increase customer conversion rates  
-- Drive revenue growth through targeted strategies  
+This analysis enables businesses to:
+- Improve customer targeting  
+- Increase conversion rates  
+- Optimize marketing spend  
 
 ---
 
 ## 📎 Project Files  
 - Dataset  
-- Excel Analysis File  
 - Power BI Dashboard  
+- Excel preprocessing file  
 
 ---
 
 ## 👤 Author  
 **Millicent Odoh**  
 Data Analyst | Excel | Power BI | SQL  
-Passionate about transforming data into actionable business insights  
-
----
-
-
-
 
