@@ -1,78 +1,99 @@
-# Bike Sales Customer Insights Dashboard
-### Business Problem
+# 🚴 Customer Purchase Behavior Analysis  
+**Tools:** Microsoft Excel | Power BI  
+**Focus:** Customer Segmentation | Revenue Drivers | Business Insights  
 
-A retail company selling bicycles wants to better understand which customer segments are most likely to purchase bikes. Current marketing efforts are broad and not data driven, leading to missed revenue opportunities and inefficient targeting.
-This project analyzes customer demographic and lifestyle data to uncover actionable insights that can improve marketing strategy and increase sales conversion.
+---
 
-### Objective
+## 📌 Project Overview  
+This project analyzes customer purchase behavior using bike sales data to identify key drivers of revenue, uncover high value customer segments, and provide actionable insights to support data-driven marketing and sales strategies.
 
-To identify the key factors influencing bike purchases and provide data driven recommendations to:
-1. Improve customer targeting
-2. Increase purchase conversion rate
-3. Support strategic decision-making
+---
 
-### Data Overview
+## 🎯 Business Problem  
+Businesses often struggle to understand:
+- Which customers drive the most revenue  
+- What factors influence purchasing decisions  
+- How to effectively target high value segments  
 
-The dataset contains customer level information, including:
+This project aims to bridge that gap by transforming raw sales data into meaningful insights that inform strategic decision-making.
 
-- Demographics: Age, Gender, Marital Status
-- Socioeconomic: Income Group
-- Lifestyle: Commute Distance
-- Outcome Variable: Bike Purchase (Yes/No)
+---
 
-### Dashboard Overview
+## 📊 Dataset  
+The dataset contains customer demographic and transactional data, including:
+- Age  
+- Income level  
+- Occupation  
+- Marital status  
+- Purchase history  
 
-The Power BI dashboard provides an interactive view of customer behavior through:
+---
 
-- Purchase distribution across age groups
-- Impact of commute distance on buying decisions
-- Comparison of marital status segments
-- Analysis of income vs purchase behavior
+## 🛠 Tools & Techniques  
+- **Microsoft Excel:** Data cleaning, transformation, and exploratory analysis  
+- **Power BI:** Interactive dashboard development and data visualization  
+- **Data Analysis Techniques:**  
+  - Customer segmentation  
+  - Trend analysis  
+  - Comparative analysis  
 
-Users can filter by region, gender, and marital status to explore patterns dynamically.
+---
 
-### Key Business Insights
-- Middle aged customers represent the highest conversion segment, indicating a strong target market for campaigns
-- Customers with shorter commute distances are more likely to purchase bikes, suggesting usage convenience drives demand
-- Income level does not strongly correlate with purchase behavior, meaning affordability may not be the primary barrier
-- Purchase behavior is relatively consistent across marital status, indicating limited segmentation value 
+## 🔍 Key Insights  
 
-### Business Recommendations
+- Customers aged **31–50** represent the highest purchasing segment, contributing a significant share of total revenue  
+- **Higher income customers** are more likely to purchase premium bike categories  
+- **Married customers** show a higher purchase rate compared to single customers  
+- Certain regions demonstrate stronger demand, indicating opportunities for localized marketing strategies  
 
-Based on the analysis:
-- Focus marketing on middle aged segments
-- Promote bikes as convenient for short-distance commuting
-- Avoid over segmentation by income
-- Leverage targeted regional campaigns using dashboard filters
+---
 
-### Key Metrics
-- Total Customers: 1000
-- Total Purchases: 481
-- Conversion Rate: 48%
-- Average Income: 56.36K
+## 📈 Dashboard Highlights  
+The interactive dashboard enables:
+- Quick identification of high value customer segments  
+- Visualization of revenue distribution across demographics  
+- Analysis of purchasing trends by region and customer profile  
 
-### Tools & Techniques
-- Power BI – Dashboard development & visualization
-- DAX – KPI calculations and measures
-- Data Cleaning (Excel) – Preprocessing and structuring dataset
+---
+## 📊 Dashboard Preview  
 
-### Dashboard Preview
+[Dashboard Overview]<img width="904" height="507" alt="Dashboard Overview" src="https://github.com/user-attachments/assets/31207b6d-7fe3-4d3c-98a4-b71c7e8524fe" />
+ 
+---
+## 💡 Business Recommendations  
 
-<img width="904" height="507" alt="Dashboard" src="https://github.com/user-attachments/assets/6d7f4dbc-0ba7-4df1-918c-3c193f9e25e7" />
+Based on the analysis, the following actions are recommended:
 
-### How to Use
-1. Download the .pbix file
-2. Open in Power BI Desktop
-3. Use slicers to explore customer segments and insights
+- **Target high income segments** with premium product offerings and tailored promotions  
+- **Focus marketing efforts on the 31–50 age group**, as they represent the most active buyers  
+- **Leverage demographic insights** to design personalized campaigns  
+- **Expand in high performing regions** while addressing gaps in underperforming areas  
 
-### Project Value
+---
 
-This project demonstrates the ability to:
+## 🚀 Business Impact  
 
-- Translate raw data into business insights
-- Build dashboards that support decision making
-- Communicate findings in a clear, stakeholder focused manner
+This analysis provides a structured approach to understanding customer behavior, enabling businesses to:
+- Improve marketing efficiency  
+- Increase customer conversion rates  
+- Drive revenue growth through targeted strategies  
 
-### Contact
+---
 
-Open to data analyst roles, collaborations, and feedback.
+## 📎 Project Files  
+- Dataset  
+- Excel Analysis File  
+- Power BI Dashboard  
+
+---
+
+## 👤 Author  
+**Millicent Odoh**  
+Aspiring Data Analyst | Excel | Power BI | SQL  
+Passionate about transforming data into actionable business insights  
+
+---
+
+
+
+
