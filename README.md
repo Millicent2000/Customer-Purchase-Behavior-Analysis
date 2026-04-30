@@ -89,7 +89,7 @@ This analysis provides a structured approach to understanding customer behavior,
 
 ## 👤 Author  
 **Millicent Odoh**  
-Aspiring Data Analyst | Excel | Power BI | SQL  
+Data Analyst | Excel | Power BI | SQL  
 Passionate about transforming data into actionable business insights  
 
 ---
